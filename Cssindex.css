@@ -1,0 +1,624 @@
+
+footer{
+    font-family: "Open Sans";
+    clear: both;
+    background-color: black;
+    background-color: rgb("255, 240, 230");
+    height:-300px;
+   
+}
+ol {
+    list-style-type: none;
+}
+ol li{
+    color: blue;
+    font-family: verdana;
+    font-weight:bold;
+    float: left;
+    font-size: 20px;
+    margin-left: -80px;
+    padding: 8px 40px 20px 120px;
+}
+
+#liquidnet{
+     color: white;
+   font-style: italic;
+   font-size: 22px;
+}
+#contact{
+   color: white;
+    padding-left: 180px;
+}
+#general-inquiries{
+   color: white;
+  margin-left: 160px;
+}
+.about-follow{
+    width: 1350px;
+    height: 300px;
+}
+#about{
+
+    font-size: 18px;
+    color: white;
+  font-weight: bold;
+  opacity: 0.8;
+    font-family: gentona;
+    margin-left: 60px;
+    clear: both;
+    width: 300px;
+    height:180px;
+    
+}
+
+#home a{
+  text-decoration: none;
+  color: white;
+}
+
+#follow{
+  color: white;
+    font-weight: bold;
+    margin-left: 150px;
+    width: 300px;
+    height:180px;
+    
+}
+#sign-up{
+    margin-left: 120px;
+    width: 300px;
+    height:180px;
+    
+    
+}
+#about, #follow, #sign-up{
+    float: left;
+    padding-left: 30px;
+}
+
+.fa {
+      font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.about-address{
+    margin-top: 0;
+    margin-left: 0;
+}
+#list6{
+    font-weight: bold;
+    font-size: 18px;
+}
+#list7, #list7, #list8, #list9, #list10{
+    font-size: 15px;
+}
+form{
+   
+    margin-top: -30px;
+    height: 120px;
+    width: 270px;
+}
+input[type=text]:focus {
+  background-color: lightblue;
+  border: 3px solid #555;
+  height: 13%;
+}
+input[type=text] {
+    font-family:"Times New Roman";
+  height: 10%;
+  padding: 10px;
+}
+ input[type=submit] {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 13px;
+}
+textarea:focus{
+  background-color: grey;
+  width: 220px;
+  height: 80px;
+  border: 2px solid #cccccc;
+	font-family: Tahoma, sans-serif;
+   font-size: 20px;
+  
+}
+textarea{
+    
+	border: 2px solid #cccccc;
+	font-family: Tahoma, sans-serif;
+    resize: none;
+    width:220px;
+    height: 80px;
+    font-size: 20px;
+}
+h4{
+    text-align: center;
+    clear: both;
+    padding-top: 20px;
+    font-style: italic;
+}
+.exams{
+    padding-left: 50px;
+    
+}
+.latest-news{
+    
+    padding-left: 60px;
+}
+.comment{
+    color: white;
+    font-family: verdana;
+    font-size: 14px;
+    font-weight: bold;
+}
+#family{
+    color: white !important;
+  font-weight: bold;
+  opacity: 0.8;
+       font-family:cinzel;
+}
+#copy-right{
+  color: white;
+    font-family:"verdana";
+    padding-top: 20px;
+    font-size: 14px;
+}
+
+footer{
+    font-family: "Open Sans";
+    clear: both;
+    background-color: black;
+    background-color: rgb("255, 240, 230");
+    height:-300px;
+   
+}
+ol {
+    list-style-type: none;
+}
+ol li{
+    color: blue;
+    font-family: verdana;
+    font-weight:bold;
+    float: left;
+    font-size: 20px;
+    margin-left: -80px;
+    padding: 8px 40px 20px 120px;
+}
+
+#liquidnet{
+     color: white;
+   font-style: italic;
+   font-size: 22px;
+}
+#contact{
+   color: white;
+    padding-left: 180px;
+}
+#general-inquiries{
+   color: white;
+  margin-left: 160px;
+}
+.about-follow{
+    width: 1350px;
+    height: 300px;
+}
+#about{
+
+    font-size: 18px;
+    color: white;
+  font-weight: bold;
+  opacity: 0.8;
+    font-family: gentona;
+    margin-left: 60px;
+    clear: both;
+    width: 300px;
+    height:180px;
+    
+}
+
+#home a{
+  text-decoration: none;
+  color: white;
+}
+
+#follow{
+  color: white;
+    font-weight: bold;
+    margin-left: 150px;
+    width: 300px;
+    height:180px;
+    
+}
+#sign-up{
+    margin-left: 120px;
+    width: 300px;
+    height:180px;
+    
+    
+}
+#about, #follow, #sign-up{
+    float: left;
+    padding-left: 30px;
+}
+
+.fa {
+      font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.about-address{
+    margin-top: 0;
+    margin-left: 0;
+}
+#list6{
+    font-weight: bold;
+    font-size: 18px;
+}
+#list7, #list7, #list8, #list9, #list10{
+    font-size: 15px;
+}
+form{
+   
+    margin-top: -30px;
+    height: 120px;
+    width: 270px;
+}
+input[type=text]:focus {
+  background-color: lightblue;
+  border: 3px solid #555;
+  height: 13%;
+}
+input[type=text] {
+    font-family:"Times New Roman";
+  height: 10%;
+  padding: 10px;
+}
+ input[type=submit] {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 13px;
+}
+textarea:focus{
+  background-color: grey;
+  width: 220px;
+  height: 80px;
+  border: 2px solid #cccccc;
+	font-family: Tahoma, sans-serif;
+   font-size: 20px;
+  
+}
+textarea{
+    
+	border: 2px solid #cccccc;
+	font-family: Tahoma, sans-serif;
+    resize: none;
+    width:220px;
+    height: 80px;
+    font-size: 20px;
+}
+h4{
+    text-align: center;
+    clear: both;
+    padding-top: 20px;
+    font-style: italic;
+}
+.exams{
+    padding-left: 50px;
+    
+}
+.latest-news{
+    
+    padding-left: 60px;
+}
+.comment{
+    color: white;
+    font-family: verdana;
+    font-size: 14px;
+    font-weight: bold;
+}
+#family{
+    color: white !important;
+  font-weight: bold;
+  opacity: 0.8;
+       font-family:cinzel;
+}
+#copy-right{
+  color: white;
+    font-family:"verdana";
+    padding-top: 20px;
+    font-size: 14px;
+}
+
+footer{
+    font-family: "Open Sans";
+    clear: both;
+    background-color: black;
+    background-color: rgb("255, 240, 230");
+    height:-300px;
+   
+}
+ol {
+    list-style-type: none;
+}
+ol li{
+    color: blue;
+    font-family: verdana;
+    font-weight:bold;
+    float: left;
+    font-size: 20px;
+    margin-left: -80px;
+    padding: 8px 40px 20px 120px;
+}
+
+#liquidnet{
+     color: white;
+   font-style: italic;
+   font-size: 22px;
+}
+#contact{
+   color: white;
+    padding-left: 180px;
+}
+#general-inquiries{
+   color: white;
+  margin-left: 160px;
+}
+.about-follow{
+    width: 1350px;
+    height: 300px;
+}
+#about{
+
+    font-size: 18px;
+    color: white;
+  font-weight: bold;
+  opacity: 0.8;
+    font-family: gentona;
+    margin-left: 60px;
+    clear: both;
+    width: 300px;
+    height:180px;
+    
+}
+
+#home a{
+  text-decoration: none;
+  color: white;
+}
+
+#follow{
+  color: white;
+    font-weight: bold;
+    margin-left: 150px;
+    width: 300px;
+    height:180px;
+    
+}
+#sign-up{
+    margin-left: 120px;
+    width: 300px;
+    height:180px;
+    
+    
+}
+#about, #follow, #sign-up{
+    float: left;
+    padding-left: 30px;
+}
+
+.fa {
+      font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.about-address{
+    margin-top: 0;
+    margin-left: 0;
+}
+#list6{
+    font-weight: bold;
+    font-size: 18px;
+}
+#list7, #list7, #list8, #list9, #list10{
+    font-size: 15px;
+}
+form{
+   
+    margin-top: -30px;
+    height: 120px;
+    width: 270px;
+}
+input[type=text]:focus {
+  background-color: lightblue;
+  border: 3px solid #555;
+  height: 13%;
+}
+input[type=text] {
+    font-family:"Times New Roman";
+  height: 10%;
+  padding: 10px;
+}
+ input[type=submit] {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 13px;
+}
+textarea:focus{
+  background-color: grey;
+  width: 220px;
+  height: 80px;
+  border: 2px solid #cccccc;
+	font-family: Tahoma, sans-serif;
+   font-size: 20px;
+  
+}
+textarea{
+    
+	border: 2px solid #cccccc;
+	font-family: Tahoma, sans-serif;
+    resize: none;
+    width:220px;
+    height: 80px;
+    font-size: 20px;
+}
+h4{
+    text-align: center;
+    clear: both;
+    padding-top: 20px;
+    font-style: italic;
+}
+.exams{
+    padding-left: 50px;
+    
+}
+.latest-news{
+    
+    padding-left: 60px;
+}
+.comment{
+    color: white;
+    font-family: verdana;
+    font-size: 14px;
+    font-weight: bold;
+}
+#family{
+    color: white !important;
+  font-weight: bold;
+  opacity: 0.8;
+       font-family:cinzel;
+}
+#copy-right{
+  color: white;
+    font-family:"verdana";
+    padding-top: 20px;
+    font-size: 14px;
+}
